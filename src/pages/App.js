@@ -1,10 +1,9 @@
 import React from 'react';
+import ChangeFlavourPage from './ChangeFlavourPage/ChangeFlavourPage';
 
 function App() {
   return (
-    <div>
-      This is App
-    </div>
+    <ChangeFlavourPage />
   );
 }
 
